@@ -19,3 +19,5 @@
 
 Currently, 2025-10-29, she uses a pill for her Epilepsy, and a pill for anxiety.
 The anxiety pill is called Assival, and it is based on Diazepam.
+
+Waiting for Tuesday for her appointment.
