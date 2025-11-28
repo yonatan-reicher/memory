@@ -38,4 +38,3 @@ Mentalics (In Hertziliya!)
 3,000
 MD (פורום רופאים, Ramat Gan)
 2,950
-
