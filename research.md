@@ -9,6 +9,13 @@ reading or learning.
 
 ## Working on
 * lean-boards
+* parser-monad
+* parser-combinator
 * latex-2-lean
 * Reading MathComp
 * Project with Hila
+
+# parser-monad
+The parser monad is pretty much just what it sounds like, it's building up
+parsers as functions from input that modify an input and return a value, and
+treating them as a monad let's you construct them very easily.
