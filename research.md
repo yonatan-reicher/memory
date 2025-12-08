@@ -1,13 +1,11 @@
 # Research
 
-Hopefully, this will be the last file I open for remembering what Shachar and I
-discussed.
-
 Here I write things a work log of what I did and summaries of meetings.
 
-Currently I am looking into LeanEgg and comparing it with grind. Some time ago,
-I wrote that I had issues compiling LeanEgg on Windows, and on Wsl. Apparently,
-it also has a docker image in the git repo, so I should try that.
+Got LeanEgg working and made a repo for testing egg and another for testing
+grind, both with the domino proof. Note that egg only compiles under lean v4.23.
+
+Currently reading the first paper. there is something called `egg_basket`.
 
 ## Meeting Summaries
 
