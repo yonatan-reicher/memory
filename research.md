@@ -5,9 +5,12 @@ Here I write things a work log of what I did and summaries of meetings.
 Got LeanEgg working and made a repo for testing egg and another for testing
 grind, both with the domino proof. Note that egg only compiles under lean v4.23.
 
-Currently reading the first paper. there is something called `egg_basket`.
-
 ## Meeting Summaries
+
+### 2025-12-09
+Shachar seemed to be interested more in returning to the latex to lean project,
+and in expanding the language until it is usable. Fair enough.
+- [ ] Try to add something to the language.
 
 ### 2025-12-02
 I should leave the monads behind for now and focus on making Lean better for
@@ -16,8 +19,8 @@ maths and proofs. For next week:
       [this paper](https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf)
 - [ ] read the evaluation section in
       [this paper](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)
-- [ ] download lean-egg
-- [ ] try it on the Filmus' domino proof
+- [x] download lean-egg
+- [x] try it on the Filmus' domino proof
 - [ ] try grind on Filmus' domino proof
 
 
