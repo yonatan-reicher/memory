@@ -2,20 +2,29 @@
 
 Here I write things a work log of what I did and summaries of meetings.
 
-Got LeanEgg working and made a repo for testing egg and another for testing
-grind, both with the domino proof. Note that egg only compiles under lean v4.23.
+[[latex-to-lean-design.md]]
 
 ## Meeting Summaries
+
+### 2025-12-15
+Early meeting! Showed Shachar the current language and he seemed happy enough -
+which is great! I decided that I will finish the following until Wednesday:
+- [ ] add $\tup{ x, y }$
+- [ ] add $x \in 0..8$
+- [ ] add mapping over multiple sets
+
+And until tuesday next week, I will add:
+- [ ] user operators $x \in^2 y = x \in z and z \in y$
 
 ### 2025-12-09
 Shachar seemed to be interested more in returning to the latex to lean project,
 and in expanding the language until it is usable. Fair enough.
-- [ ] Try to add something to the language.
+- [x] Try to add something to the language.
 
 ### 2025-12-02
 I should leave the monads behind for now and focus on making Lean better for
 maths and proofs. For next week:
-- [ ] read the test cases section in
+- [x] read the test cases section in
       [this paper](https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf)
 - [ ] read the evaluation section in
       [this paper](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)
