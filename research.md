@@ -9,7 +9,7 @@ Here I write things a work log of what I did and summaries of meetings.
 ### 2025-12-15
 Early meeting! Showed Shachar the current language and he seemed happy enough -
 which is great! I decided that I will finish the following until Wednesday:
-- [ ] add $\tup{ x, y }$
+- [x] add $\tup{ x, y }$
 - [ ] add $x \in 0..8$
 - [ ] add mapping over multiple sets
 
