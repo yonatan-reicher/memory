@@ -1,23 +1,27 @@
 # On My Mind
 
-It is 2025-12-15, 09:13, Monday. I have a couple of lectures and tutorials that
-I missed, that I should probably get back to. But I really don't feel like that
-\- I have much more important things on my mind! What should I do?
+It is 2025-12-25, 09:38, Thursday. The technion feels very quiet, and it makes
+me calm. I went to the supermarket to get some groceries. I need to call my mom
+and tell her that I plan to stay over the weekend over here.
 
-## Things that I need to watch:
-- Storage systems lecture & tutorial
-- Computer architecture tutorial
-all considered, this will probably take about 4 hours to watch, all together. I
-don't think I can really allocate this much time.
+I also need to give some strong work on computer graphics! I think that's the
+thing that feels most urgent to me.
 
-## Things I am currently working on:
-- Latex to Lean
-- Lens + SL
-- Clipping
-- Computer architecture HW 2
+Something that I shouldn't forget about is *the seminar report*. I have to do it
+either today or tomorrow, and I know that I'll probably forget. But I really
+don't feel like doing it right now.
 
-About clipping - I could probably just cap $w$ to be some non-zero epsilon
-value, or just multiplying by a very large number instead for dividing by zero.
-But, maybe, I should just turn around and do the clipping properly - in clip
-space. Yeah. I probably should.
+One more thing is, I should make sure I collect all my things from the faculty,
+because I thing it might be closed on Saturday.
+Things to collect:
+1. Floor 4 fridge
+2. Floor 4 freezer (egg rolls!)
+3. Floor 2 fridge
+4. Floor 2 sink dishes
 
+:colorscheme quiet
+:set bg=light
+:set signcolumn=no
+:set nonu
+:set nornu
+:set cusrorline
