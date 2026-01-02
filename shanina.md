@@ -1,5 +1,10 @@
 # Shanina
 
+## Psychometric
+
+Kiddum course: dates are 2026-01-04 to 2026-04-01, Sundays and Wednesdays,
+17:00-20:30.
+
 ## Things I Want to Get Her
 
 - A Record Player.
