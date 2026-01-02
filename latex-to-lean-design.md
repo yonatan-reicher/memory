@@ -5,7 +5,7 @@ The process:
 | # | Stage         | Output        | Representation            | Extra Info   |
 | - | ------------- | ------------- | ------------------------- | ------------ |
 | 1 | Input         | Text          | Array (Array Char)        |              |
-| 2 | Spanning      | Inline Math   | Array (Kind ✗ Span[^1]    |              |
+| 2 | Spanning      | Inline Math   | Array (Kind ✗ Span)[^1]   |              |
 | 3 | Lexing        | Tokens        | Array (Kind ✗ List Token) |              |
 | 4 | Parsing       | Ast           | Array (Kind ✗ Formula)    |              |
 | 5 | Categorizing  | Category      | Array CategorizedFormula  |              |
