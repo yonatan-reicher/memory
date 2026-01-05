@@ -1,17 +1,22 @@
 Youtube channels I care about:
 
-* Tsoding
-* Gabriel Torch
-* Greg Guevara (mentoring and artistic life tings)
-* Sylvan Franklin?
-* SpoonFedStudy (Cringe asian guru)
-
-
-Maybe:
-* Bread on Penguins?
-* No Boilerplate
-* Joshua Blais (Emacs and other things? I don't know much about him, but I want
-  to watch more)
+* ***Tsoding***
+  short programming tricks
+* ***Gabriel Torch***
+  stem
+* ***Greg Guevara***
+  mentoring and artistic life tings
+* ***Sylvan Franklin?***
+  on becoming terry davis
+* ***SpoonFedStudy***
+  Cringe asian guru
+* ***Bread on Penguins***
+  cozy warm linux and life
+* ***No Boilerplate***
+* ***Joshua Blais***
+  Emacs and other things? I don't know much about him, but I want to watch more
+* ***Sebastian Lague***
+  high quality game dev
 
 
 I just saw one video by and I was interested:
