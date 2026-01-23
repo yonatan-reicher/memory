@@ -6,6 +6,7 @@ Youtube channels I care about:
   stem
 * ***Greg Guevara***
   mentoring and artistic life tings
+- ***JREG*** - Greg Guevara's other channel
 * ***Sylvan Franklin?***
   on becoming terry davis
 * ***SpoonFedStudy***
@@ -17,8 +18,6 @@ Youtube channels I care about:
   Emacs and other things? I don't know much about him, but I want to watch more
 * ***Sebastian Lague***
   high quality game dev
-- ***JREG***
-  Fucked up leftist everyday philosophy
 
 
 I just saw one video by and I was interested:
