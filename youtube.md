@@ -1,23 +1,16 @@
-Youtube channels I care about:
+YouTube channels I care about:
 
-* ***Tsoding***
-  short programming tricks
-* ***Gabriel Torch***
-  stem
-* ***Greg Guevara***
-  mentoring and artistic life tings
+* ***Tsoding*** - short programming tricks
+* ***Gabriel Torch*** - STEM and world-news horror
+* ***Greg Guevara*** - fucked up mentoring and artistic life philosophy
 - ***JREG*** - Greg Guevara's other channel
-* ***Sylvan Franklin?***
-  on becoming terry davis
-* ***SpoonFedStudy***
-  Cringe asian guru
-* ***Bread on Penguins***
-  cozy warm linux and life
-* ***No Boilerplate***
-* ***Joshua Blais***
-  Emacs and other things? I don't know much about him, but I want to watch more
-* ***Sebastian Lague***
-  high quality game dev
+* ***Sylvan Franklin*** - on becoming terry davis
+* ***SpoonFedStudy*** - Cringe asian guru
+* ***Bread on Penguins*** - cozy warm linux and life
+* ***No Boilerplate*** - autistic programming and wizardry short lectures
+* ***Joshua Blais*** - Emacs and other things? I don't know much about him, but
+  I want to watch more
+* ***Sebastian Lague*** - high quality game dev
 
 
 I just saw one video by and I was interested:
