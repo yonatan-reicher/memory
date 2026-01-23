@@ -17,6 +17,8 @@ Youtube channels I care about:
   Emacs and other things? I don't know much about him, but I want to watch more
 * ***Sebastian Lague***
   high quality game dev
+- ***JREG***
+  Fucked up leftist everyday philosophy
 
 
 I just saw one video by and I was interested:
