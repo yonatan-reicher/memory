@@ -6,13 +6,6 @@
 81 Mop
 Lev + Ofek
 Matzov Mehkar
-rardes
+Pardes
 1044
-
-## 1044:
-
-1. Zoom 3-4 hours
-   Do somewhen Sunday till Monday
-2. Thursday
-   Ramat Gan at 14:00
 
