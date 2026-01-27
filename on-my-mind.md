@@ -24,4 +24,4 @@ Things to collect:
 :set signcolumn=no
 :set nonu
 :set nornu
-:set cusrorline
+:set cursorline
