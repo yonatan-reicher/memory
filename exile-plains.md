@@ -27,3 +27,10 @@ and governed by the sun.
 Sleep and wake are a process of tuning with the realm of existence, and are a
 form of death and rebirth in the same plain of existence, and that is governed
 too by the sun and moon, in some way.
+
+## The Heralds
+
+The heralds should be five magical dieties, once man, now accended. Their names
+derive 5 roots, four hebrew letters long, which are used as holy adjectives that
+describe magical items. The heralds are: Sheyl, Yorm, Kwer, Kiteb, Ler (Root
+לרלר)
